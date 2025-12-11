@@ -1,6 +1,7 @@
-python-telegram-bot==20.7
+aiogram==3.6.0
 yt-dlp
-pillow
 aiohttp
-requests
+pillow
 ffmpeg-python
+python-dotenv
+requests
