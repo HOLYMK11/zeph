@@ -1,7 +1,7 @@
 aiogram==3.0.0b7
-aiohttp==3.9.5
+aiofiles
 yt-dlp
-pillow
+Pillow==9.5.0
 ffmpeg-python
 python-dotenv
 requests
