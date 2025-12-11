@@ -1,6 +1,6 @@
-aiogram==3.6.0
+aiogram==3.0.0b7
+aiohttp==3.9.5
 yt-dlp
-aiohttp
 pillow
 ffmpeg-python
 python-dotenv
