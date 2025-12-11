@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: zeph-bot
+    env: python
+    buildCommand: |
+      apt-get update
+      apt-get install -y ffmpeg
+      pip install -r requirements.txt
+    startCommand: python bot.py
+    pythonVersion: 3.10.13
